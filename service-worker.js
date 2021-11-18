@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/pwa/precache-manifest.8065d416c2c6a8e4919315596ff0ea65.js"
+  "/pwa/precache-manifest.a2f06eaa9c705f1292bf1f6c5ecbb5d3.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "spa-base-h5"});
