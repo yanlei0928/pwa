@@ -373,7 +373,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/pwa/css/PnLHistory.db49b199.css"
   },
   {
-    "revision": "c62a7fdffaf4f3cd4bed",
+    "revision": "8a29074f2334344f56ba",
     "url": "/pwa/css/app.8e010757.css"
   },
   {
@@ -801,7 +801,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/pwa/img/金币.d9f14fef.png"
   },
   {
-    "revision": "9de5364fe5be39034c1d6c3ca73aa957",
+    "revision": "9b6eb6f34e9b833536734d0785289b51",
     "url": "/pwa/index.html"
   },
   {
@@ -809,8 +809,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/pwa/js/PnLHistory.2d0b9d5a.js"
   },
   {
-    "revision": "c62a7fdffaf4f3cd4bed",
-    "url": "/pwa/js/app.ef019efa.js"
+    "revision": "8a29074f2334344f56ba",
+    "url": "/pwa/js/app.6a73d6c5.js"
   },
   {
     "revision": "bbca1c89719efdf354b0",
