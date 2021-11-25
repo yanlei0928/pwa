@@ -14,10 +14,10 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/pwa/precache-manifest.a2f06eaa9c705f1292bf1f6c5ecbb5d3.js"
+  "/precache-manifest.e988a69e955abc4890f35b0d0077dcd4.js"
 );
 
-workbox.core.setCacheNameDetails({prefix: "spa-base-h5"});
+workbox.core.setCacheNameDetails({prefix: "futures-h5"});
 
 self.addEventListener('message', (event) => {
   if (event.data && event.data.type === 'SKIP_WAITING') {
