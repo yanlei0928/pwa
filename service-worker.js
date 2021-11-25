@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.e988a69e955abc4890f35b0d0077dcd4.js"
+  "/pwa/precache-manifest.d93fe99f12e424aa9af4cc4a35143da5.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "futures-h5"});
